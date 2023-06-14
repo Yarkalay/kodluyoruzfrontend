@@ -1,1 +1,1 @@
-![Alt text](sitevid.mp4)
+![Alt text](sitevid.gif)
