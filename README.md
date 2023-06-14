@@ -1,2 +1,2 @@
-# kodluyoruzfrontend
-patika başlangıç seviye frontend eğitimi reposu
+# Kodluyoruz Frontend
+  Patika.dev - Başlangıç Seviye Frontend Eğitimi Reposu
