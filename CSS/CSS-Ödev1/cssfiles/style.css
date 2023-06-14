@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: #ffffcc;
+}
+
+/*Font düzenlemeleri*/
+.fontStyle{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+
+h1{
+    color: #ff004c;
+}
+
+h2 {
+    color: #852fee;
+}
+
+/*navbardaki linkleri düzenleme*/
+#navbar {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+#navbar li{
+    margin-left: 1em;
+}
+
+a:hover{
+    padding: 5px;
+    border-radius: 6px;
+    color: #f200ff;
+    
+}
+
+li {
+    list-style-position: inside;
+}
+
+/*resim süzenlemeleri*/
+img{
+    height: 230px;
+}
